@@ -1,0 +1,1 @@
+document.write('Данный текст добавлен на страницу через JavaScript')
